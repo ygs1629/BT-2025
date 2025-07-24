@@ -1,0 +1,1 @@
+[Copia_Árboles_de_clasificación_para_la_toma_de_decisión_sobre_acciones_Juan_Luis_German_Saura.pdf](https://github.com/user-attachments/files/21415654/Copia_Arboles_de_clasificacion_para_la_toma_de_decision_sobre_acciones_Juan_Luis_German_Saura.pdf)

@@ -22,7 +22,7 @@ This repository contains a partial version of my Bachelor’s Thesis (in Spanish
 ### Key Results
 - Credit rating, Sharpe ratio, and accumulated returns are key factors for stock inclusion/exclusion.
 
-### Visual Summary
+### Some Key Visual Takeaways
 #### ROC Curves
 _Comparison of ROC curves between all models and investor types:_  
 ![ROC Curves](images/ROC_curves2.png)

@@ -1,6 +1,6 @@
 # Bachelor’s Thesis (Partial Version)
 
-📄 [Download Thesis PDF (Spanish)](https://github.com/ygs1629/BT-2025/raw/main/Bachelor_Thesis_Partial_ES.pdf)
+📄 [Download Thesis PDF (Spanish)](https://github.com/ygs1629/BT-2025/blob/main/TFG_2025_version_parcial.pdf).
 
 **Description (English)**  
 This repository contains a partial version (in Spanish) of my Bachelor’s Thesis:  

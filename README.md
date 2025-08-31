@@ -1,6 +1,6 @@
 # Project's description
 
-📄 [Download Thesis PDF (Spanish)](https://github.com/ygs1629/BT-2025/blob/main/TFG_2025_version_parcial.pdf).
+📄 [Download Thesis PDF (Spanish, partial version)](https://github.com/ygs1629/BT-2025/blob/main/TFG_2025_version_parcial.pdf).
 
 **Description (English)**  
 This repository contains a partial version (in Spanish) of my Bachelor’s Thesis:  

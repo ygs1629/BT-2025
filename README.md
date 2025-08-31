@@ -19,7 +19,7 @@ This repository contains a partial version of my Bachelor’s Thesis (in Spanish
 ### Evaluation Metrics
 - AUC, F1-score, sensitivity, specificity, confusion matrices
 
-### Key Results
+### Major Findings
 - Credit rating, Sharpe ratio, and accumulated returns are key factors for stock inclusion/exclusion.
 
 ### Some Key Visual Takeaways

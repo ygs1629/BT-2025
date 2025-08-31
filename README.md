@@ -1,6 +1,6 @@
 # Decision Trees for Stock Classification (IBEX 35) - Partial Bachelor’s Thesis
 
-📄 [Download Thesis PDF (Spanish, partial version)](https://github.com/ygs1629/BT-2025/blob/main/TFG_2025_version_parcial.pdf)
+📄 [Download Thesis PDF (Spanish, partial version)](https://github.com/ygs1629/BT-2025/blob/main/BT_2025-Partial_version_in_Spanish.pdf)
 
 ## Overview
 This repository contains a partial version of my Bachelor’s Thesis (in Spanish), focusing on classifying IBEX 35 stocks according to investor risk profiles (conservative, neutral, tolerant).
